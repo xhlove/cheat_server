@@ -1,0 +1,9 @@
+{
+    "host": "127.0.0.1",
+    "port": 22222,
+    "scripts_path": "scripts",
+    "vendors~xgplayer_encrypt.b05f677a.chunk.js": {
+        "access-control-allow-origin": "*",
+        "timing-allow-origin": "*"
+    }
+}
