@@ -1,5 +1,9 @@
 # cheat_server
 
+推荐使用另一种更灵活方便的方式
+
+**https://blog.weimo.info/archives/598/**
+
 ## 关于
 
 本脚本/软件是为方便调试网页中的js所写，需要配合Gooreplacer插件使用（或者其他一类重定向请求的插件）。
